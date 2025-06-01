@@ -16,6 +16,7 @@ button{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    align-items: center;
 }
 .right {
     background-color: #E7E9EB;
@@ -68,4 +69,5 @@ button{
     display: flex;
     gap: 80px;
     align-items: center;
+    text-align: center;
 }
